@@ -9,7 +9,7 @@ This document specifies the IRLab research expectations for students pursuing th
 
 ## MS Requirements
 
-All MS students in IRLab are required to complete a **thesis**.
+All MS students in the IRLab are required to complete a **thesis**.
 
 The resulting thesis work must be of sufficient quality and maturity to be **suitable for publication in a high-impact journal or conference**, such as:
 
@@ -26,7 +26,7 @@ Prior to the **Research Proficiency Exam**, the student must have:
 * conducted a **user study** as part of that project; and
 * written a **first-author paper** suitable for publication in a **high-impact conference or journal**.
 
-This requirement may be fulfilled through a **published paper** or a **paper that is soon to be submitted**, provided that it is based on the student's **MS thesis work completed at Iowa State University**.
+This requirement may be fulfilled through a **published paper** or a **paper that is soon to be submitted** as part of the student's **MS thesis work completed at Iowa State University**.
 
 ### 2. Preliminary Oral Exam
 
