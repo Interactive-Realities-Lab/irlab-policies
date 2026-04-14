@@ -1,8 +1,32 @@
-title: IRLab Graduate Student Research Requirements
-description: Graduate student research requirements for the Interactive Realities Lab
-remote_theme: pages-themes/minimal@v0.2.0
+title: Regis Kopper
+author: Regis Kopper
+email: you@example.com
+description: Researcher, Interactive Realities Lab
+url: "https://interactive-realities-lab.github.io"
+baseurl: "/irlab-policies"
+remote_theme: academicpages/academicpages
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Hide the header/navigation
-header_pages: []
+paginate: 10
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: MS/PhD Requirements
+    url: /ms-phd-requirements/
+
+collections:
+  publications:
+    output: true
+    permalink: /publications/:title/

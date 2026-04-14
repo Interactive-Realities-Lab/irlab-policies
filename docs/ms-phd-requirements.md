@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: IRLab Graduate Student Research Requirements
+permalink: /ms-phd-requirements/
 ---
 
 # IRLab Graduate Student Research Requirements
