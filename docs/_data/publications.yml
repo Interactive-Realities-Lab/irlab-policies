@@ -1,6 +1,321 @@
-- title: Example Publication
-  authors: "Kopper, R., Doe, J."
-  journal: "Example Journal"
-  year: 2026
-  url: "https://example.com"
-  cite: "Kopper, R., & Doe, J. (2026). Example Publication. Example Journal."
+- title: "FirstModulAR: Open-Source Modular Augmented Reality Interfaces for First Responders"
+  authors: "Kopper, R., Grandi, J., Argo, E., Jerald, J., Bennet, R., Shipway, C."
+  year: 2025
+  venue: "2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+
+- title: "Assessment of Interest in a Virtual Avatar-Based Nutrition Education Program among Youth-Serving Community Partners"
+  authors: "Enahora, B., Tripicchio, G. L., Kopper, R., Dyson, O. L., Labban, J., Shriver, L. H., Haldeman, L. A., Rhea, C. K., McGuirt, J. T."
+  year: 2024
+  journal: "Journal of Nutrition Education and Behavior"
+
+- title: "Multi-Method Formative Evaluation of a Digital Online Grocery Shopping Assistant among Special Supplemental Nutrition Program for Women, Infants, and Children Participants"
+  authors: "McGuirt, J. T., Steeves, E. A., Labban, J. D., Pfammatter, A. F., Allen, K., Kopper, R., Sun, Y., Gustafson, A."
+  year: 2024
+  journal: "Journal of Nutrition Education and Behavior"
+
+- title: "XR Slate: Swiping and Layout Adjustment for Text Entry"
+  authors: "Okamura, T., Kopper, R."
+  year: 2024
+  venue: "2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+
+- title: "SURVIVRS: Surround Video-Based Virtual Reality for Surgery Guidance"
+  authors: "Taweel, A., Jorge, J., Maciel, A., Vissoci, J. R. N., Kopper, R."
+  year: 2023
+  venue: "IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+  doi: "10.1109/VRW58643.2023.00047"
+
+- title: "Approaches and Challenges in XR and AI for Health Applications"
+  authors: "Jorge, J., Pereira, J., Maciel, A., Moreira, C., Kopper, R."
+  year: 2023
+  venue: "SIGGRAPH Asia 2023 Courses"
+  doi: "10.1145/3610538.3614640"
+
+- title: "Assessing the Impact of Alert Modalities on User Performance and Comprehension in Controlled Workload Conditions"
+  authors: "Grandi, J., Cao, Z., Costa, D., Kopper, R."
+  year: 2023
+  venue: "Proceedings of the 2023 ACM Symposium on Spatial User Interaction"
+
+- title: "Comparing Visual Search Patterns in Chest X-Ray Diagnostics"
+  authors: "Moreira, C., Alvito, D. M., Sousa, S. C., Nobre, I. M. G. B., Ouyang, C., Kopper, R., Duchowski, A., Jorge, J."
+  year: 2023
+  venue: "Proceedings of the 2023 Symposium on Eye Tracking Research and Applications"
+  doi: "10.1145/3588015.3588403"
+
+- title: "Real-Time Viewport-Aware Optical Flow Estimation in 360-Degree Videos for Visually-Induced Motion Sickness Mitigation"
+  authors: "Cao, Z., Kopper, R."
+  year: 2023
+  venue: "Proceedings of the 2023 3D User Interfaces Symposium"
+  doi: "10.1145/3625008.3625051"
+
+- title: "Development of an Immersive Virtual Colonoscopy Viewer for Colon Growths Diagnosis"
+  authors: "Serras, J., Maciel, A., Paulo, S., Duchowski, A., Kopper, R., Moreira, C., Jorge, J."
+  year: 2023
+  venue: "2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+  doi: "10.1109/VRW58643.2023.00038"
+
+- title: "Exploring Affordances for AR in Laparoscopy"
+  authors: "Negrão, M., Jorge, J., Vissoci, J., Kopper, R., Maciel, A."
+  year: 2023
+  doi: "10.1109/VRW58643.2023.00021"
+
+- title: "Does Adding Physical Realism to Virtual Reality Training Reduce Time Compression?"
+  authors: "Lofca, K., Jerald, J., Costa, D., Kopper, R."
+  year: 2023
+  venue: "2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+  doi: "10.1109/VRW58643.2023.00017"
+
+- title: "A Continuous Authentication Technique for XR Utilizing Time-Based One Time Passwords, Haptics, and Kinetic Activity"
+  authors: "Grandi, J., Terrell, J., Lofca, K., Ruizvalencia, C., Kopper, R."
+  year: 2023
+  venue: "2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)"
+  doi: "10.1109/VRW58643.2023.00322"
+
+- title: "Studying the Effect of Physical Realism on Time Perception in a HAZMAT VR Simulation"
+  authors: "Lofca, K., Haskins, J., Jerald, J., Kopper, R."
+  year: 2022
+
+- title: "Foreword to the Special Section on the 2021 Symposium on Virtual and Augmented Reality (SVR 2021)"
+  authors: "Trevisan, D. G., Kopper, R., Oliveira, V. A. de J."
+  year: 2022
+  journal: "Computers & Graphics"
+  doi: "10.1016/j.cag.2021.11.008"
+
+- title: "VR Neuro Game: a Virtual Reality Game to Support Neuroanatomy Teaching and Learning"
+  authors: "Souza, V., Maciel, A., Nedel, L., Kopper, R., Loges, K., Schlemmer, E."
+  year: 2021
+  journal: "Journal of Information Systems and Technology"
+  doi: "10.5753/jis.2021.2090"
+
+- title: "Measuring Presence in Virtual Environments: A Survey"
+  authors: "Souza, V., Maciel, A., Nedel, L., Kopper, R."
+  year: 2021
+  journal: "ACM Computing Surveys"
+  doi: "10.1145/3466817"
+
+- title: "Psychophysiological Markers of Performance and Learning during Simulated Marksmanship in Immersive Virtual Reality"
+  authors: "Liu, S., Clements, J. M., Kirsch, E. P., Rao, H. M., Zielinski, D. J., Lu, Y., Mainsah, B. O., Potter, N. D., Sommer, M. A., Kopper, R., Appelbaum, L. G."
+  year: 2021
+
+- title: "One-Handed Text Entry in Mobile-Based Virtual Reality: An Ambiguous Keyboard Technique"
+  authors: "Palmeira, E., Moraes, I., Telles, E., Martin, V., Goncalves, V., Kopper, R., Lamounier, E., Cardoso, A."
+  year: 2021
+
+- title: "Granulated Rest Frames Outperform Field of View Restrictors on Visual Search Performance"
+  authors: "Cao, Z., Grandi, J., Kopper, R."
+  year: 2021
+  journal: "Frontiers in Virtual Reality"
+  doi: "10.3389/frvir.2021.604889"
+
+- title: "Efficient and Accurate Object 3D Selection With Eye Tracking-Based Progressive Refinement"
+  authors: "Wang, Y., Kopper, R."
+  year: 2021
+  journal: "Frontiers in Virtual Reality"
+  doi: "10.3389/frvir.2021.607165"
+
+- title: "Design and Simulation of Next-Generation Augmented Reality User Interfaces in Virtual Reality"
+  authors: "Grandi, J., Cao, Z., Ogren, M., Kopper, R."
+  year: 2021
+
+- title: "The Effect of Virtual Reality on Knowledge Transfer and Retention in Collaborative Group-Based Learning for Neuroanatomy Students"
+  authors: "Souza, V., Maciel, A., Nedel, L., Kopper, R., Loges, K., Schlemer, E."
+  year: 2020
+
+- title: "Simulating Next-Generation User Interfaces for Law Enforcement Traffic Stops"
+  authors: "Grandi, J., Cao, Z., Ogren, M., Kopper, R."
+  year: 2020
+
+- title: "O Uncanny Valley das Mãos Virtuais em Aplicações de Realidade Virtual Imersiva: uma Revisão Sistemática da Literatura"
+  authors: "Palmeira, E. G. U., Martin, V. B. S., Moraes, I. A., Kopper, R., Lamounier Júnior, E. A., Cardoso, A."
+  year: 2020
+
+- title: "Augmented reality-based navigation for use in surgical and non-surgical procedures"
+  authors: "Kopper, R., Zielinski, D., Cutler, A., Lad, N., Codd, P., Rahimpour, S."
+  year: 2020
+
+- title: "Systems and methods for using sensing of real object position, trajectory, or attitude to enable user interaction with a virtual object"
+  authors: "Kopper, R., Nankivil, D., Zielinski, D."
+  year: 2019
+
+- title: "VR Developer Gems"
+  authors: "Bowman, D. A., Bacim, F., Kopper, R."
+  year: 2019
+
+- title: "Towards a Virtual Memory Palace"
+  authors: "Liu, A. C., Lee, B. H., Kopper, R."
+  year: 2019
+
+- title: "An Approach to Designing Next Generation User Interfaces for Public-Safety Organizations"
+  authors: "Grandi, J., Ogren, M., Kopper, R."
+  year: 2019
+
+- title: "VR Touch Museum"
+  authors: "Zhao, Y., Forte, M., Kopper, R."
+  year: 2018
+  doi: "10.1109/VR.2018.8446581"
+
+- title: "Visually-Induced Motion Sickness Reduction via Static and Dynamic Rest Frames"
+  authors: "Cao, Z., Jerald, J., Kopper, R."
+  year: 2018
+
+- title: "The Effects of Physiologically-Adaptive Virtual Environment on User's Sense of Presence"
+  authors: "Souza, V. C. de, Nedel, L., Kopper, R., Maciel, A., Tagliaro, L."
+  year: 2018
+
+- title: "Sensorimotor Learning during a Marksmanship Task in Immersive Virtual Reality"
+  authors: "Rao, H. M., Khanna, R., Zielinski, D. J., Lu, Y., Clements, J. M., Potter, N. D., Sommer, M. A., Kopper, R., Appelbaum, L. G."
+  year: 2018
+  journal: "Frontiers in Psychology"
+  doi: "10.3389/fpsyg.2018.00058"
+
+- title: "Psychophysiology of Visual-Motor Learning during a Simulated Marksmanship Task in Immersive Virtual Reality"
+  authors: "Appelbaum, L. G., Clements, J., Kirsch, E., Rao, H. M., Potter, N. D., Kopper, R., Sommer, M. A."
+  year: 2018
+
+- title: "Neurophysiology of Visual-Motor Learning during a Simulated Marksmanship Task in Immersive Virtual Reality"
+  authors: "Clements, J. M., Kopper, R., Zielinski, D. J., Rao, H., Sommer, M. A., Kirsch, E., Mainsah, B. O., Collins, L. M., Appelbaum, L. G."
+  year: 2018
+
+- title: "Measuring visual search and distraction in immersive virtual reality"
+  authors: "Olk, B., Dinu, A., Zielinski, D. J., Kopper, R."
+  year: 2018
+  journal: "Royal Society Open Science"
+  doi: "10.1098/rsos.172331"
+
+- title: "6 Degrees-of-freedom manipulation with a transparent, tangible object in world-fixed virtual reality displays"
+  authors: "Zielinski, D. J., Nankivil, D., Kopper, R."
+  year: 2017
+  doi: "10.1109/VR.2017.7892256"
+
+- title: "Wireless, Web-Based Interactive Control of Optical Coherence Tomography with Mobile Devices"
+  authors: "Mehta, R., Nankivil, D., Zielinski, D. J., Waterman, G., Keller, B., Limkakeng, A. T., Kopper, R., Izatt, J. A., Kuo, A. N."
+  year: 2017
+  journal: "Translational Vision Science & Technology"
+  doi: "10.1167/tvst.6.1.5"
+
+- title: "User experience evaluation with archaeometry interactive tools in Virtual Reality environment"
+  authors: "Corrêa, A. G., Borba, E. Z., Lopes, R., Zuffo, M. K., Araujo, A., Kopper, R."
+  year: 2017
+
+- title: "Specimen Box: A Tangible Interaction Technique for World-Fixed Virtual Reality Displays"
+  authors: "Zielinski, D. J., Nankivil, D., Kopper, R."
+  year: 2017
+
+- title: "Itapeva 3D: Being Indiana Jones in virtual reality"
+  authors: "Borba, E. Z., Montes, A., Lopes, R. de D., Zuffo, M. K., Kopper, R."
+  year: 2017
+
+- title: "Immersive Visualization and Curation of Archaeological Heritage Data: Çatalhöyük and the Dig@ IT App"
+  authors: "Lercari, N., Shiferaw, E., Forte, M., Kopper, R."
+  year: 2017
+
+- title: "Emotional Qualities of VR Space"
+  authors: "Naz, A., Kopper, R., McMahan, R. P., Nadin, M."
+  year: 2017
+
+- title: "Development of Augmented Reality-Based Neuro-Navigation System for use in External Ventrictilar Drain Placement"
+  authors: "Cutler, A. B., Rahimpour, S., Liu, Y., Lad, N., Kopper, R., Codd, P."
+  year: 2017
+
+- title: "Design and preliminary evaluation of an EGO-exocentric technique for cooperative manipulation"
+  authors: "Soares, L. P., Pinho, M. S., Kopper, R."
+  year: 2017
+
+- title: "Changes in EEG and movement kinematics accompany sensorimotor learning in immersive virtual reality"
+  authors: "Appelbaum, L. G., Clements, J., Rao, H. M., Khanna, R., Zielinski, D. J., Lu, Y., Vittatoe, K., Potter, N. D., Kopper, R., Sommer, M. A."
+  year: 2017
+
+- title: "ArcheoVR: Exploring Itapeva's archeological site"
+  authors: "Borba, E. Z., Montes, A., Almeida, M., Nagamura, M., Lopes, R., Zuffo, M. K., Araujo, A., Kopper, R."
+  year: 2017
+
+- title: "VR model to explore archaeological sites in a non-destructive way"
+  authors: "Borba, E. Z., Cabral, M., Lopes, R., Zuffo, M., Kopper, R."
+  year: 2016
+
+- title: "Sensorimotor orienting in learning"
+  authors: "Rao, H. M., Khanna, R., Zielinski, D. J., Lu, Y., Potter, N. D., Kopper, R., Sommer, M. A., Appelbaum, L. G."
+  year: 2016
+
+- title: "Remote, web-based interface control of handheld swept source OCT system for acute care settings"
+  authors: "Mehta, R., Nankivil, D., Zielinski, D. J., Waterman, G., Keller, B., Adari, P., Kopper, R., Izatt, J. A., Kuo, A. N."
+  year: 2016
+
+- title: "Evaluating the Effects of Image Persistence on Dynamic Target Acquisition in Low Frame Rate Virtual Environments"
+  authors: "Zielinski, D. J., Rao, H. M., Potter, N. D., Appelbaum, L. G., Kopper, R."
+  year: 2016
+
+- title: "Collaborative hybrid virtual environment"
+  authors: "Soares, L. P., Oliveira, T. V. de, Sangalli, V. A., Pinho, M. S., Kopper, R."
+  year: 2016
+
+- title: "A Fully Immersive Virtual Model to Explore Archaeological Sites"
+  authors: "Borba, E. Z., Cabral, M., Lopes, R. de D., Zuffo, M. K., Kopper, R."
+  year: 2016
+
+- title: "Effects of perceptual load in visual search in immersive virtual reality"
+  authors: "Olk, B., Zielinski, D., Kopper, R."
+  year: 2015
+
+- title: "Effects of field of view and visual complexity on virtual reality training effectiveness for a visual scanning task"
+  authors: "Ragan, E., Bowman, D., Kopper, R., Stinson, C., Scerbo, S., McMahan, R. P."
+  year: 2015
+  journal: "IEEE Transactions on Visualization and Computer Graphics"
+  doi: "10.1109/TVCG.2015.2403312"
+
+- title: "Virtual patient simulations and optimal social learning context"
+  authors: "Johnson, T. R., Lyons, R., Kopper, R., Johnsen, K. J., Lok, B., Cendan, J. C."
+  year: 2014
+  journal: "Medical Teacher"
+  doi: "10.3109/0142159X.2014.890702"
+
+- title: "Towards an Immersive Interpretation of Çatalhöyük at DiVE"
+  authors: "Lercari, N., Matthiesen, S., Zielinski, D., Kopper, R."
+  year: 2014
+
+- title: "Handbook of virtual environments: design, implementation and applications"
+  authors: "McMahan, R. P., Kopper, R., Bowman, D. A."
+  year: 2014
+
+- title: "Exploring Gender Biases with Virtual Patients for High Stakes Interpersonal Skills Training"
+  authors: "Rivera-Gutierrez, D. J., Kopper, R., Kleinsmith, A., Cendan, J., Finney, G., Lok, B."
+  year: 2014
+  doi: "10.1007/978-3-319-09767-1_50"
+
+- title: "Enabling closed-source applications for virtual reality via OpenGL intercept-based techniques"
+  authors: "Zielinski, D. J., McMahan, R. P., Shokur, S., Morya, E., Kopper, R."
+  year: 2014
+
+- title: "Rapid and accurate 3D selection by progressive refinement"
+  authors: "Kopper, R., Bacim, F., Bowman, D. A."
+  year: 2011
+  venue: "2011 IEEE Symposium on 3D User Interfaces"
+  doi: "10.1109/3DUI.2011.5759219"
+
+- title: "Understanding and Improving Distal Pointing Interaction"
+  authors: "Kopper, R."
+  year: 2011
+  venue: "Virginia Tech Dissertation"
+
+- title: "A human motor behavior model for distal pointing tasks"
+  authors: "Kopper, R., Bowman, D. A., Silva, M. G., McMahan, R. P."
+  year: 2010
+  journal: "International Journal of Human-Computer Studies"
+  doi: "10.1016/j.ijhcs.2010.05.001"
+
+- title: "The Effects of Higher Levels of Immersion on Procedure Memorization Performance and Implications for Educational Virtual Environments"
+  authors: "Ragan, E. D., Sowndararajan, A., Kopper, R., Bowman, D. A."
+  year: 2010
+
+- title: "Design of a Pointerless Selection Technique for Projected Displays using the Myoelectric Signal"
+  authors: "Kopper, R., Ni, T., Bowman, D. A., Pinho, M."
+  year: 2006
+  venue: "IEEE VR 2006"
+  doi: "10.1109/VR.2006.47"
+
+- title: "An Evaluation of the Use of Tactile Stimuli in a Virtual Environment"
+  authors: "Rieder, R., Araújo, F. B. de, Silva, S., Kopper, R., Santos, M. C. C. dos, Benvenuti, A., Pinho, M. S."
+  year: 2006
+
+- title: "Project and Development of Touch Generation Devices"
+  authors: "Kopper, R., Santos, M. C. C., Prochnow, D., Pinho, M. S., Lima, J. C."
+  year: 2004

@@ -1,9 +1,9 @@
 title: Regis Kopper
 author: Regis Kopper
-email: you@example.com
-description: Researcher, Interactive Realities Lab
-url: "https://interactive-realities-lab.github.io"
-baseurl: "/irlab-policies"
+email: rkopper@iastate.edu
+description: Assistant Professor of Computer Science at Iowa State University, Director of the Interactive Realities Laboratory.
+url: "https://www.regiskopper.com"
+baseurl: ""
 remote_theme: academicpages/academicpages
 plugins:
   - jekyll-remote-theme
@@ -23,7 +23,9 @@ nav:
     url: /
   - title: Publications
     url: /publications/
-  - title: MS/PhD Requirements
+  - title: Teaching
+    url: /teaching/
+  - title: IRLab
     url: /ms-phd-requirements/
 
 collections:
