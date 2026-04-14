@@ -4,8 +4,9 @@ email: rkopper@iastate.edu
 description: Assistant Professor of Computer Science at Iowa State University, Director of the Interactive Realities Laboratory.
 url: "https://www.regiskopper.com"
 baseurl: ""
-theme: jekyll-theme-minimal
+remote_theme: academicpages/academicpages
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
