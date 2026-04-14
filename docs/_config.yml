@@ -7,25 +7,3 @@ baseurl: "/irlab-policies"
 remote_theme: academicpages/academicpages
 plugins:
   - jekyll-remote-theme
-
-paginate: 10
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-nav:
-  - title: Home
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
-  - title: IRLab
-    url: /ms-phd-requirements/
-
-collections:
-  publications:
-    output: true
-    permalink: /publications/:title/
