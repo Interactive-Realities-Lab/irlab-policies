@@ -1,4 +1,4 @@
 title: Regis Kopper
 remote_theme: academicpages/academicpages
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme 
