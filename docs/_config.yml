@@ -7,9 +7,6 @@ baseurl: "/irlab-policies"
 remote_theme: academicpages/academicpages
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 paginate: 10
 exclude:
